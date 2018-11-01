@@ -1,0 +1,42 @@
+Nifty Studios Inc. 2018 v2.1
+info@niftystudios.com
+http://niftystudios.com
+
+Easy Elevator Model V2 (Unity 5.3.5f1)
+
+This model was originaly created for the "Elevator Horror VR" Oculus Rift experience also available on the Google Play Store.
+
+In this package:
+2 prefabs - Elevator | Hall Door Frame
+1 fbx model
+Materials
+multiple Textures - Albedo | Normal | Metalic/Smoothness | AO | LED Panel Textures and Illumination
+Demo Scene - Shows the Elevator with animations.
+
+NOTE 1: elevLEDPanel color can be adjusted using the Emmision Color in the material.
+NOTE 2: The UV's were mapped to keep a consistant pixel density across the entire model. The original sizes of textures for materials are:
+
+elevBtn - 256
+elevBtnLight - 256
+elevDetails - 2048
+elevDoors - 2048
+elevHallFrame - 2048
+elevLEDPanel - 1024
+elevMain - 4096
+elevPotlight - 256
+
+If lowering the elevMain material to 2048, it is recomended to adjust each of the other materials to half their original size in order to maintain a consistant pixel density:
+
+elevBtn - 128
+elevBtnLight - 128
+elevDetails - 1024
+elevDoors - 1024
+elevHallFrame - 1024
+elevLEDPanel - 512
+elevMain - 2048
+elevPotlight - 128
+
+
+
+
+

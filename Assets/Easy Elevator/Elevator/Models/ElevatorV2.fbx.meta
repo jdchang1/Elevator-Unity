@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 004d4e6ea868951409551976c7faaefe
+timeCreated: 1486326127
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: btnCallLight
+    100002: btnLight00
+    100004: btnLight01
+    100006: btnLight02
+    100008: btnLight03
+    100010: btnLight04
+    100012: btnLight05
+    100014: btnLight06
+    100016: btnLight07
+    100018: btnLight08
+    100020: btnLight09
+    100022: btnLight10
+    100024: btnLight11
+    100026: btnLight12
+    100028: btnLight14
+    100030: btnLight15
+    100032: btnLight16
+    100034: btnLight17
+    100036: btnLight18
+    100038: btnLight19
+    100040: btnLightHelp
+    100042: btnLightOpen
+    100044: buttonCall
+    100046: buttonLightGroup
+    100048: buttons
+    100050: elevator
+    100052: //RootNode
+    100054: elevCallBtnPanel
+    100056: elevDoorInner
+    100058: elevDoorOuter
+    100060: elevFootGuard
+    100062: elevFootGuardL
+    100064: elevFootGuardR
+    100066: elevFramDoorR
+    100068: elevFrameDoorL
+    100070: elevHallFrame
+    100072: elevHallFrameLED
+    100074: elevHandRail
+    100076: elevHandRailL
+    100078: elevHandRailR
+    100080: elevLED
+    100082: elevNumbPanel
+    100084: elevPotlight1Light
+    100086: elevPotlight1Rim
+    100088: elevPotlight2Light
+    100090: elevPotlight2Rim
+    100092: elevPotlight3Light
+    100094: elevPotlight3Rim
+    100096: elevPotlight4Light
+    100098: elevPotlight4Rim
+    400000: btnCallLight
+    400002: btnLight00
+    400004: btnLight01
+    400006: btnLight02
+    400008: btnLight03
+    400010: btnLight04
+    400012: btnLight05
+    400014: btnLight06
+    400016: btnLight07
+    400018: btnLight08
+    400020: btnLight09
+    400022: btnLight10
+    400024: btnLight11
+    400026: btnLight12
+    400028: btnLight14
+    400030: btnLight15
+    400032: btnLight16
+    400034: btnLight17
+    400036: btnLight18
+    400038: btnLight19
+    400040: btnLightHelp
+    400042: btnLightOpen
+    400044: buttonCall
+    400046: buttonLightGroup
+    400048: buttons
+    400050: elevator
+    400052: //RootNode
+    400054: elevCallBtnPanel
+    400056: elevDoorInner
+    400058: elevDoorOuter
+    400060: elevFootGuard
+    400062: elevFootGuardL
+    400064: elevFootGuardR
+    400066: elevFramDoorR
+    400068: elevFrameDoorL
+    400070: elevHallFrame
+    400072: elevHallFrameLED
+    400074: elevHandRail
+    400076: elevHandRailL
+    400078: elevHandRailR
+    400080: elevLED
+    400082: elevNumbPanel
+    400084: elevPotlight1Light
+    400086: elevPotlight1Rim
+    400088: elevPotlight2Light
+    400090: elevPotlight2Rim
+    400092: elevPotlight3Light
+    400094: elevPotlight3Rim
+    400096: elevPotlight4Light
+    400098: elevPotlight4Rim
+    2300000: btnCallLight
+    2300002: btnLight00
+    2300004: btnLight01
+    2300006: btnLight02
+    2300008: btnLight03
+    2300010: btnLight04
+    2300012: btnLight05
+    2300014: btnLight06
+    2300016: btnLight07
+    2300018: btnLight08
+    2300020: btnLight09
+    2300022: btnLight10
+    2300024: btnLight11
+    2300026: btnLight12
+    2300028: btnLight14
+    2300030: btnLight15
+    2300032: btnLight16
+    2300034: btnLight17
+    2300036: btnLight18
+    2300038: btnLight19
+    2300040: btnLightHelp
+    2300042: btnLightOpen
+    2300044: buttonCall
+    2300046: buttons
+    2300048: elevator
+    2300050: elevCallBtnPanel
+    2300052: elevDoorInner
+    2300054: elevDoorOuter
+    2300056: elevFootGuard
+    2300058: elevFootGuardL
+    2300060: elevFootGuardR
+    2300062: elevFramDoorR
+    2300064: elevFrameDoorL
+    2300066: elevHallFrame
+    2300068: elevHallFrameLED
+    2300070: elevHandRail
+    2300072: elevHandRailL
+    2300074: elevHandRailR
+    2300076: elevLED
+    2300078: elevNumbPanel
+    2300080: elevPotlight1Light
+    2300082: elevPotlight1Rim
+    2300084: elevPotlight2Light
+    2300086: elevPotlight2Rim
+    2300088: elevPotlight3Light
+    2300090: elevPotlight3Rim
+    2300092: elevPotlight4Light
+    2300094: elevPotlight4Rim
+    2300096: //RootNode
+    3300000: btnCallLight
+    3300002: btnLight00
+    3300004: btnLight01
+    3300006: btnLight02
+    3300008: btnLight03
+    3300010: btnLight04
+    3300012: btnLight05
+    3300014: btnLight06
+    3300016: btnLight07
+    3300018: btnLight08
+    3300020: btnLight09
+    3300022: btnLight10
+    3300024: btnLight11
+    3300026: btnLight12
+    3300028: btnLight14
+    3300030: btnLight15
+    3300032: btnLight16
+    3300034: btnLight17
+    3300036: btnLight18
+    3300038: btnLight19
+    3300040: btnLightHelp
+    3300042: btnLightOpen
+    3300044: buttonCall
+    3300046: buttons
+    3300048: elevator
+    3300050: elevCallBtnPanel
+    3300052: elevDoorInner
+    3300054: elevDoorOuter
+    3300056: elevFootGuard
+    3300058: elevFootGuardL
+    3300060: elevFootGuardR
+    3300062: elevFramDoorR
+    3300064: elevFrameDoorL
+    3300066: elevHallFrame
+    3300068: elevHallFrameLED
+    3300070: elevHandRail
+    3300072: elevHandRailL
+    3300074: elevHandRailR
+    3300076: elevLED
+    3300078: elevNumbPanel
+    3300080: elevPotlight1Light
+    3300082: elevPotlight1Rim
+    3300084: elevPotlight2Light
+    3300086: elevPotlight2Rim
+    3300088: elevPotlight3Light
+    3300090: elevPotlight3Rim
+    3300092: elevPotlight4Light
+    3300094: elevPotlight4Rim
+    3300096: //RootNode
+    4300000: elevator
+    4300002: elevPotlight4Rim
+    4300004: elevPotlight4Light
+    4300006: elevPotlight3Rim
+    4300008: elevPotlight3Light
+    4300010: elevPotlight2Rim
+    4300012: elevPotlight2Light
+    4300014: elevPotlight1Rim
+    4300016: elevPotlight1Light
+    4300018: elevDoorInner
+    4300020: elevDoorOuter
+    4300022: elevFootGuardL
+    4300024: elevFootGuard
+    4300026: elevHandRailL
+    4300028: elevHandRail
+    4300030: elevFootGuardR
+    4300032: elevHandRailR
+    4300034: elevLED
+    4300036: elevNumbPanel
+    4300038: btnLightOpen
+    4300040: btnLightHelp
+    4300042: btnLight19
+    4300044: btnLight18
+    4300046: btnLight17
+    4300048: btnLight16
+    4300050: btnLight15
+    4300052: btnLight14
+    4300054: btnLight12
+    4300056: btnLight11
+    4300058: btnLight10
+    4300060: btnLight09
+    4300062: btnLight08
+    4300064: btnLight07
+    4300066: btnLight06
+    4300068: btnLight05
+    4300070: btnLight04
+    4300072: btnLight03
+    4300074: btnLight02
+    4300076: btnLight01
+    4300078: btnLight00
+    4300080: buttons
+    4300082: elevHallFrame
+    4300084: elevFrameDoorL
+    4300086: elevFramDoorR
+    4300088: elevHallFrameLED
+    4300090: elevCallBtnPanel
+    4300092: buttonCall
+    4300094: btnCallLight
+    7400000: OpenDoorsV2
+    7400002: CloseDoorsV2
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CloseDoorsV2
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 105
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: elevator
+        weight: 1
+      - path: elevator/elevDoorInner
+        weight: 1
+      - path: elevator/elevDoorOuter
+        weight: 1
+      - path: elevator/elevFootGuard
+        weight: 1
+      - path: elevator/elevFootGuardL
+        weight: 1
+      - path: elevator/elevFootGuardR
+        weight: 1
+      - path: elevator/elevHandRail
+        weight: 1
+      - path: elevator/elevHandRailL
+        weight: 1
+      - path: elevator/elevHandRailR
+        weight: 1
+      - path: elevator/elevLED
+        weight: 1
+      - path: elevator/elevNumbPanel
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight00
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight01
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight02
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight03
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight04
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight05
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight06
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight07
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight08
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight09
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight10
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight11
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight12
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight14
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight15
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight16
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight17
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight18
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight19
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLightHelp
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLightOpen
+        weight: 1
+      - path: elevator/elevNumbPanel/buttons
+        weight: 1
+      - path: elevator/elevPotlight1Light
+        weight: 1
+      - path: elevator/elevPotlight2Light
+        weight: 1
+      - path: elevator/elevPotlight3Light
+        weight: 1
+      - path: elevator/elevPotlight4Light
+        weight: 1
+      - path: elevHallFrame
+        weight: 1
+      - path: elevHallFrame/elevCallBtnPanel
+        weight: 1
+      - path: elevHallFrame/elevCallBtnPanel/btnCallLight
+        weight: 1
+      - path: elevHallFrame/elevCallBtnPanel/buttonCall
+        weight: 1
+      - path: elevHallFrame/elevFramDoorR
+        weight: 1
+      - path: elevHallFrame/elevFrameDoorL
+        weight: 1
+      - path: elevHallFrame/elevHallFrameLED
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: OpenDoorsV2
+      takeName: Scene
+      firstFrame: 105
+      lastFrame: 210
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: elevator
+        weight: 1
+      - path: elevator/elevDoorInner
+        weight: 1
+      - path: elevator/elevDoorOuter
+        weight: 1
+      - path: elevator/elevFootGuard
+        weight: 1
+      - path: elevator/elevFootGuardL
+        weight: 1
+      - path: elevator/elevFootGuardR
+        weight: 1
+      - path: elevator/elevHandRail
+        weight: 1
+      - path: elevator/elevHandRailL
+        weight: 1
+      - path: elevator/elevHandRailR
+        weight: 1
+      - path: elevator/elevLED
+        weight: 1
+      - path: elevator/elevNumbPanel
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight00
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight01
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight02
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight03
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight04
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight05
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight06
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight07
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight08
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight09
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight10
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight11
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight12
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight14
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight15
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight16
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight17
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight18
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLight19
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLightHelp
+        weight: 1
+      - path: elevator/elevNumbPanel/buttonLightGroup/btnLightOpen
+        weight: 1
+      - path: elevator/elevNumbPanel/buttons
+        weight: 1
+      - path: elevator/elevPotlight1Light
+        weight: 1
+      - path: elevator/elevPotlight2Light
+        weight: 1
+      - path: elevator/elevPotlight3Light
+        weight: 1
+      - path: elevator/elevPotlight4Light
+        weight: 1
+      - path: elevHallFrame
+        weight: 1
+      - path: elevHallFrame/elevCallBtnPanel
+        weight: 1
+      - path: elevHallFrame/elevCallBtnPanel/btnCallLight
+        weight: 1
+      - path: elevHallFrame/elevCallBtnPanel/buttonCall
+        weight: 1
+      - path: elevHallFrame/elevFramDoorR
+        weight: 1
+      - path: elevHallFrame/elevFrameDoorL
+        weight: 1
+      - path: elevHallFrame/elevHallFrameLED
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
